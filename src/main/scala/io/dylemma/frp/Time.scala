@@ -9,6 +9,6 @@ package io.dylemma.frp
   */
 trait Time[T] {
 
-	/** @return the current time */
-	def currentTime: T
+  /** @return the current time */
+  def currentTime: T
 }
